@@ -33,8 +33,8 @@ when breakCompilation:
     const input = readline(stdin)
 
 
-method angry_echo(e : string): void =
-    echo e & "!!!!"
+# method angry_echo(e : string): void =
+#     echo e & "!!!!"
 
 
 
